@@ -1,0 +1,9 @@
+{
+  "name": "cis3339-homework1-backend",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  }
+}
